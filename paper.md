@@ -17,3 +17,6 @@ Find out more about this important phenomenon.
 We simulate the evolution of particle sizes as they are transoorted away from the source region
 
 bbbb
+
+#Methodology
+We compared our measurements of particle aging with a model simulation. The model is details in Smith et al (2002).
