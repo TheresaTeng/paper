@@ -20,11 +20,13 @@ We simulate the evolution of particle sizes as they are transoorted away from th
 The simulations indicate taht coagulation is the dominent growth mechanism for these particles.
 
 
-#Methodology
+# Methodology
 We compared our measurements of particle aging with a model simulation. The model is details in Smith et al (2002).
 
+# Conclusions
+We have made fantastic insight into the BBOA aging process.
+Nonetheless questions remain unanswered, 
+so more funding is required
 
-This is the new thing
-
-#Figures
+# Figures
 All images are listed here
