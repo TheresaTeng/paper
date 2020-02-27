@@ -2,8 +2,8 @@
 Simulations of biomass burning aerosols over West Africa
 
 #Author
-John Smith
-Theresa Teng
+John Smith, University of Elsewhere
+Theresa Teng, University of Manchester
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa
