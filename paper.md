@@ -16,7 +16,9 @@ Find out more about this important phenomenon.
 # Simulations
 We simulate the evolution of particle sizes as they are transoorted away from the source region
 
-bbbb
+# Results
+The simulations indicate taht coagulation is the dominent growth mechanism for these particles.
+
 
 #Methodology
 We compared our measurements of particle aging with a model simulation. The model is details in Smith et al (2002).
